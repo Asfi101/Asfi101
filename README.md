@@ -1,4 +1,4 @@
-- 👋 Hi I am Asfi.
+- 👋 Hi there, I am Asfi.
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning tableau.
 - 💞️ I’m looking to collaborate on open source.
